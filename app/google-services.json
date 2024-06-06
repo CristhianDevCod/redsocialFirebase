@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "799887744121",
+    "project_id": "snapshots-5b824",
+    "storage_bucket": "snapshots-5b824.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:799887744121:android:3a64c5f7ccd0730e1e08a8",
+        "android_client_info": {
+          "package_name": "com.morningstar.snapshots"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvEEYui6C7_1gmi_qx6PiPLli0VzpjDFs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
